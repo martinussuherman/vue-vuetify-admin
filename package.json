@@ -70,7 +70,7 @@
     "stylus-loader": "^3.0.2",
     "vue-cli-plugin-vuetify": "^2.0.2",
     "vue-template-compiler": "^2.6.11",
-    "vuetify-loader": "^1.4.3"
+    "vuetify-loader": "^1.7.1"
   },
   "keywords": [
     "vue",
